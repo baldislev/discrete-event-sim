@@ -18,3 +18,6 @@
 >* Average time of waiting for a packet in a buffer to be processed.
 >* Average processing time.
 >* Average arrival rate to the buffer.
+
+## Run:
+> python3 sim.py T, $\lambda$, $\mu$, ${P_i}$ list
