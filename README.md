@@ -6,8 +6,8 @@
 > to enter the buffer. During a period of time T new packets will arrive as a Poisson process with rate= $\lambda$. <br>
 > When buffer is not empty, a packet is processed with rate = $\mu$. <br>
 >
-> Buffer is limited according to the list of probabilities. The $i_{th}$ probability describes the chance of a packet entering <br>
-> a buffer when there are i packets in the buffer.
+> Buffer is limited according to the list of probabilities. The $i_{th}$ probability describes the chance of a packet <br>
+> entering a buffer when there are i packets in the buffer.
 
 ## Output:
 >* Number of processed packets.
